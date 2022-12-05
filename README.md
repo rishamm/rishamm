@@ -33,7 +33,7 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishamm&show_icons=true&locale=en" alt="rishamm" /></p>
+<h1>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishamm&show_icons=true&locale=en" alt="rishamm" /></h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishamm&" alt="rishamm" /></p>
 
