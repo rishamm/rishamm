@@ -42,8 +42,8 @@
 <br>
   <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=rishamm&show_icons=true&locale=en" alt="rishamm" /></h1>
 <br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishamm&" alt="rishamm" /></p>
+
+<p><br>
+<br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishamm&" alt="rishamm" /></p>
 <br>
 <br>
