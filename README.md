@@ -38,7 +38,8 @@
 <br>
 <br>
 <br>
-<h1>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishamm&show_icons=true&locale=en" alt="rishamm" /></h1>
+<h1>&nbsp;
+  <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=rishamm&show_icons=true&locale=en" alt="rishamm" /></h1>
 <br>
 <br>
 <br>
